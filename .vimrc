@@ -37,6 +37,7 @@ Plug 'shinchu/lightline-gruvbox.vim'
 
 "tree
 Plug 'scrooloose/nerdtree'
+Plug 'preservim/nerdcommenter'
 
 "typing
 Plug 'jiangmiao/auto-pairs'
@@ -56,14 +57,18 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'tyewang/vimux-jest-test'
 Plug 'janko-m/vim-test'
 
+"Git integration
+Plug 'mhinz/vim-signify'
+Plug 'tpope/vim-fugitive'
+Plug 'tpope/vim-rhubarb'
+Plug 'junegunn/gv.vim'
 
 
-
+"Funcionalidad
+Plug 'rust-lang/rust.vim'
 Plug 'dense-analysis/ale'
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
-Plug 'preservim/nerdcommenter'
-Plug 'tpope/vim-fugitive'
 Plug 'honza/vim-snippets'
 Plug 'scrooloose/syntastic'
 Plug 'yggdroot/indentline'
@@ -89,6 +94,11 @@ let g:closetag_filenames= '*.html, *.js, *.jsx, *.ts, *.tsx, *.php'
 
 let g:javascript_plugin_flow = 1
 
+"indentline
+let g:indentLine_char_list = ['│', '┊']
+
+"Rust configuration
+let g:rustfmt_autosave = 1
 
 
 
@@ -100,7 +110,8 @@ let g:javascript_plugin_flow = 1
  let g:UltiSnipsExpandTrigger="<tab>"
  let g:UltiSnipsJumpForwardTrigger="<tab>"
  let g:UltiSnipsJumpBackwardTrigger="<S-tab>"
-
+" If you want :UltiSnipsEdit to split your window.
+let g:UltiSnipsEditSplit="vertical"
 
 
 "NERDTree
@@ -151,9 +162,53 @@ nmap <silent> <C-j> <Plug>(ale_next_wrap)
 
 
 
-"Prettier
+nmap <F5> :source ~/.config/nvim/init.vim<CR>
+vmap <F5> :source ~/.config/nvim/init.vim<CR>
 
-"nma <leader>py :Prettier<CR>
+"noremap <up> <nop>
+"noremap <down> <nop>
+"noremap <left> <nop>
+"noremap <right> <nop>
+
+
+
+"nnoremap <silent> <right> :vertical resize +5<CR>
+"nnoremap <silent> <left> :vertical resize -5<CR>
+"nnoremap <silent> <up> :resize +5<CR>
+"nnoremap <silent> <down> :resize -5<CR>
+"nnoremap <leader>e :e $MYVIMRC<CR>
+
+"vnoremap <c-t> :split<CR>:ter<CR>:resize 15<CR>
+"nnoremap <c-t> :split<CR>:ter<CR>:resize 15<CR>
+
+" Moverse al buffer siguiente con <líder> + k
+nnoremap <leader>k :bnext<CR>
+
+" Moverse al buffer anterior con <líder> + j
+nnoremap <leader>j :bprevious<CR>
+
+" Cerrar el buffer actual con <líder> + q
+nnoremap <leader>Q :bdelete<CR>
+
+"crear una nueva ventana
+nnoremap <leader>t :tabe<CR>
+
+"hacer un split vertical
+nnoremap <leader>vs :vsp<CR>
+
+"hacer un split horizontal
+nnoremap <leader>sp :sp<CR>
+
+
+"Configuration of FZF
+let g:fzf_preview_window = 'right:40%'
+nnoremap <c-p> :Files<CR>
+nnoremap <c-g> :GitFiles<CR>
+" use current git repo/file director with ctrl p
+let g:ctrlp_working_path_mode = 'ra'
+let g:ctrlp_use_caching = 0
+
+"Prettier
 
 nmap <Leader>py <Plug>(Prettier)
 let g:prettier#autoformat = 1
