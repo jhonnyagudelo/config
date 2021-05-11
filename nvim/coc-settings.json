@@ -1,0 +1,16 @@
+{
+  "coc.preferences.formatOnSaveFiletypes": [
+    "css",
+    "php",
+    "html",
+    "json",
+    "scss",
+    "markdown",
+    "javascript",
+    "typescript",
+    "typescriptreact",
+    "javascriptreact",
+    "typescript.tsx"
+  ],
+  "coc.preferences.extensionUpdateCheck": "daily"
+}
