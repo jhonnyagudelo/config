@@ -1,0 +1,283 @@
+# Vim 8.2 generó este archivo "viminfo".
+# Puede editarlo, ¡sólo si tiene cuidado!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' cuando se escribió este archivo
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Historia de Línea de órdenes (de lo más nuevo a lo más antiguo):
+:q!
+|2,0,1622152322,,"q!"
+:q
+|2,0,1621959761,,"q"
+
+# Historia de Cadena de búsqueda (de lo más nuevo a lo más antiguo):
+
+# Historia de Expresión (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de entrada (de lo más nuevo a lo más antiguo):
+
+# Historia de Debug Line (de lo más nuevo a lo más antiguo):
+
+# Registros:
+""0	LINE	0
+	761
+<ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDBikq1qiA0kLgDtHQnmb7KswTLcUnI5+J7zUbENEH2SfQcHibrRQQocULa/5F0wOJ/4VfViZHHQ6+T8o4bH3eZ3LMF8NJDeYfJkHe59TRfIRYHqetWdNxR9j+JXI3ZFAH34qBZqt87Q9kvfORkPudGYrLRbNB7tZpTm+Xuoxv+w2zlGMws2HCp4/ewXXVdvrE2CV/tn5f9I5CFRbWTWRJapCvRjDAcCj7CYZsCghf0ilq0py64qpDUIbA9tFWciMQL+MH7n66d8+ZYJ5IwdDqPB33xcBfDKyxsEVZels0GhIvcA4xBXdlwjt9DuMvxugbqTeU8bLz+AC3bcsaiD2P6kBoXDE01di6iYPNjMcHGCtLULTSSKIi+/uAxJ4VS+Se1/hkUSXZGGnrOCVT/Y0QdkrblbXK2G4b9leGiDIMy8prE+tnxCe/EQjs0lYfhUgxjA9gEGXcwU9dewRC1qDVyAw6iY/NFuzIAUe9SVNpJb4FJUV9+38towm4ZrFcOY+gJPxz5uag3WBpSXw2XMISCniEWb7FAA9bZKGPauU6SK/6dKnlVWUHNGSbX4P5css8Ziox91l5LUcsyIy6Ztedamcc1FSkTLhCUrfSmECA7lzRMp/Tw6HPqlnw7YqggFwci0pSnznFrZFfavcUOUT9fGCRr9U1WejV2asZBXs3wBw== “desarrollo1@previser.com.co”
+|3,1,0,1,1,0,1622152305,>760
+|<"ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDBikq1qiA0kLgDtHQnmb7KswTLcUnI5+J7zUbENEH2SfQcHibrRQQocULa/5F0wOJ/4VfViZHHQ6+T8o4bH3eZ3LMF8NJDeYfJkHe59TRfIRYHqetWdNxR9j+JXI3ZFAH34qBZqt87Q9kvfORkPudGYrLRbNB7tZpTm+Xuoxv+w2zlGMws2HCp4/ewXXVdvrE2CV/tn5f9I5CFRbWTWRJapCvRjDAcCj7CYZsCghf0ilq0py64qpDUIbA9tFWciMQL+MH7n66d8+ZYJ5IwdDqPB33xcBfDKyxsEVZels0GhIvcA4xBXdlwjt9DuMvxugbqTeU8bLz+AC3bcsaiD2P6kBoXDE01di6iYPNjMcHGCtLULTSSKIi+/uAxJ4VS+Se1/hkUSXZGGnrOCVT/Y0QdkrblbXK2G4b9leGiDIMy8prE+tnxCe/EQjs0lYfhUgxjA9
+|<gEGXcwU9dewRC1qDVyAw6iY/NFuzIAUe9SVNpJb4FJUV9+38towm4ZrFcOY+gJPxz5uag3WBpSXw2XMISCniEWb7FAA9bZKGPauU6SK/6dKnlVWUHNGSbX4P5css8Ziox91l5LUcsyIy6Ztedamcc1FSkTLhCUrfSmECA7lzRMp/Tw6HPqlnw7YqggFwci0pSnznFrZFfavcUOUT9fGCRr9U1WejV2asZBXs3wBw== “desarrollo1@previser.com.co”"
+
+# variables globales:
+
+# Marcas en el archivo:
+'0  20883  6  ~/Documentos/curso/ReactPlatzi/reactHooks/react-hooks/node_modules/react-dom/cjs/react-dom.development.js
+|4,48,20883,6,1631660508,"~/Documentos/curso/ReactPlatzi/reactHooks/react-hooks/node_modules/react-dom/cjs/react-dom.development.js"
+'1  12  12  ~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js
+|4,49,12,12,1631049027,"~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js"
+'2  9  0  ~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js
+|4,50,9,0,1631049027,"~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js"
+'3  17  27  ~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js
+|4,51,17,27,1631049027,"~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js"
+'4  1  28  ~/.ssh/id_rsa.pub
+|4,52,1,28,1622152322,"~/.ssh/id_rsa.pub"
+'5  1  754  ~/.ssh/id_rsa.pub
+|4,53,1,754,1622152108,"~/.ssh/id_rsa.pub"
+'6  1  0  ~/.bash
+|4,54,1,0,1621971416,"~/.bash"
+'7  1  0  ~/index.js
+|4,55,1,0,1621959761,"~/index.js"
+
+# Lista de saltos (el más reciente va primero):
+-'  20883  6  ~/Documentos/curso/ReactPlatzi/reactHooks/react-hooks/node_modules/react-dom/cjs/react-dom.development.js
+|4,39,20883,6,1631660508,"~/Documentos/curso/ReactPlatzi/reactHooks/react-hooks/node_modules/react-dom/cjs/react-dom.development.js"
+-'  1  0  ~/Documentos/curso/ReactPlatzi/reactHooks/react-hooks/node_modules/react-dom/cjs/react-dom.development.js
+|4,39,1,0,1631638834,"~/Documentos/curso/ReactPlatzi/reactHooks/react-hooks/node_modules/react-dom/cjs/react-dom.development.js"
+-'  12  12  ~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js
+|4,39,12,12,1631049027,"~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js"
+-'  9  0  ~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js
+|4,39,9,0,1631049027,"~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js"
+-'  17  27  ~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js
+|4,39,17,27,1631049027,"~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js"
+-'  12  12  ~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js
+|4,39,12,12,1631049027,"~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js"
+-'  9  0  ~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js
+|4,39,9,0,1631049027,"~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js"
+-'  17  27  ~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js
+|4,39,17,27,1631049027,"~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js"
+-'  8  0  ~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js
+|4,39,8,0,1631049005,"~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js"
+-'  8  0  ~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js
+|4,39,8,0,1631049005,"~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js"
+-'  1  0  ~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js
+|4,39,1,0,1631041194,"~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js"
+-'  1  0  ~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js
+|4,39,1,0,1631041194,"~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js"
+-'  8  4  ~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js
+|4,39,8,4,1631033069,"~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js"
+-'  1  0  ~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js
+|4,39,1,0,1631033069,"~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js"
+-'  8  4  ~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js
+|4,39,8,4,1631033069,"~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js"
+-'  1  0  ~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js
+|4,39,1,0,1631033069,"~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js"
+-'  7  4  ~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js
+|4,39,7,4,1631032443,"~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js"
+-'  1  0  ~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js
+|4,39,1,0,1631032443,"~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js"
+-'  7  4  ~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js
+|4,39,7,4,1631032443,"~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js"
+-'  1  0  ~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js
+|4,39,1,0,1631032443,"~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js"
+-'  1  28  ~/.ssh/id_rsa.pub
+|4,39,1,28,1622152322,"~/.ssh/id_rsa.pub"
+-'  1  28  ~/.ssh/id_rsa.pub
+|4,39,1,28,1622152322,"~/.ssh/id_rsa.pub"
+-'  1  28  ~/.ssh/id_rsa.pub
+|4,39,1,28,1622152322,"~/.ssh/id_rsa.pub"
+-'  1  28  ~/.ssh/id_rsa.pub
+|4,39,1,28,1622152322,"~/.ssh/id_rsa.pub"
+-'  1  28  ~/.ssh/id_rsa.pub
+|4,39,1,28,1622152322,"~/.ssh/id_rsa.pub"
+-'  1  28  ~/.ssh/id_rsa.pub
+|4,39,1,28,1622152322,"~/.ssh/id_rsa.pub"
+-'  1  28  ~/.ssh/id_rsa.pub
+|4,39,1,28,1622152322,"~/.ssh/id_rsa.pub"
+-'  1  28  ~/.ssh/id_rsa.pub
+|4,39,1,28,1622152322,"~/.ssh/id_rsa.pub"
+-'  1  754  ~/.ssh/id_rsa.pub
+|4,39,1,754,1622152108,"~/.ssh/id_rsa.pub"
+-'  1  754  ~/.ssh/id_rsa.pub
+|4,39,1,754,1622152108,"~/.ssh/id_rsa.pub"
+-'  1  754  ~/.ssh/id_rsa.pub
+|4,39,1,754,1622152108,"~/.ssh/id_rsa.pub"
+-'  1  754  ~/.ssh/id_rsa.pub
+|4,39,1,754,1622152108,"~/.ssh/id_rsa.pub"
+-'  1  754  ~/.ssh/id_rsa.pub
+|4,39,1,754,1622152108,"~/.ssh/id_rsa.pub"
+-'  1  754  ~/.ssh/id_rsa.pub
+|4,39,1,754,1622152108,"~/.ssh/id_rsa.pub"
+-'  1  754  ~/.ssh/id_rsa.pub
+|4,39,1,754,1622152108,"~/.ssh/id_rsa.pub"
+-'  1  754  ~/.ssh/id_rsa.pub
+|4,39,1,754,1622152108,"~/.ssh/id_rsa.pub"
+-'  1  0  ~/.bash
+|4,39,1,0,1621971416,"~/.bash"
+-'  1  0  ~/.bash
+|4,39,1,0,1621971416,"~/.bash"
+-'  1  0  ~/.bash
+|4,39,1,0,1621971416,"~/.bash"
+-'  1  0  ~/.bash
+|4,39,1,0,1621971416,"~/.bash"
+-'  1  0  ~/.bash
+|4,39,1,0,1621971416,"~/.bash"
+-'  1  0  ~/.bash
+|4,39,1,0,1621971416,"~/.bash"
+-'  1  0  ~/.bash
+|4,39,1,0,1621971416,"~/.bash"
+-'  1  0  ~/.bash
+|4,39,1,0,1621971416,"~/.bash"
+-'  1  0  ~/.bash
+|4,39,1,0,1621971416,"~/.bash"
+-'  1  0  ~/.bash
+|4,39,1,0,1621971416,"~/.bash"
+-'  1  0  ~/.bash
+|4,39,1,0,1621971416,"~/.bash"
+-'  1  0  ~/.bash
+|4,39,1,0,1621971416,"~/.bash"
+-'  1  0  ~/.bash
+|4,39,1,0,1621971416,"~/.bash"
+-'  1  0  ~/.bash
+|4,39,1,0,1621971416,"~/.bash"
+-'  1  0  ~/.bash
+|4,39,1,0,1621971416,"~/.bash"
+-'  1  0  ~/.bash
+|4,39,1,0,1621971416,"~/.bash"
+-'  1  0  ~/.bash
+|4,39,1,0,1621971416,"~/.bash"
+-'  1  0  ~/.bash
+|4,39,1,0,1621971416,"~/.bash"
+-'  1  0  ~/.bash
+|4,39,1,0,1621971416,"~/.bash"
+-'  1  0  ~/.bash
+|4,39,1,0,1621971416,"~/.bash"
+-'  1  0  ~/.bash
+|4,39,1,0,1621971416,"~/.bash"
+-'  1  0  ~/.bash
+|4,39,1,0,1621971416,"~/.bash"
+-'  1  0  ~/.bash
+|4,39,1,0,1621971416,"~/.bash"
+-'  1  0  ~/.bash
+|4,39,1,0,1621971416,"~/.bash"
+-'  1  0  ~/.bash
+|4,39,1,0,1621971416,"~/.bash"
+-'  1  0  ~/.bash
+|4,39,1,0,1621971416,"~/.bash"
+-'  1  0  ~/.bash
+|4,39,1,0,1621971416,"~/.bash"
+-'  1  0  ~/.bash
+|4,39,1,0,1621971416,"~/.bash"
+-'  1  0  ~/.bash
+|4,39,1,0,1621971416,"~/.bash"
+-'  1  0  ~/.bash
+|4,39,1,0,1621971416,"~/.bash"
+-'  1  0  ~/.bash
+|4,39,1,0,1621971416,"~/.bash"
+-'  1  0  ~/.bash
+|4,39,1,0,1621971416,"~/.bash"
+-'  1  0  ~/index.js
+|4,39,1,0,1621959761,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1621959761,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1621959761,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1621959761,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1621959761,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1621959761,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1621959761,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1621959761,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1621959761,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1621959761,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1621959761,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1621959761,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1621959761,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1621959761,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1621959761,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1621959761,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1621959761,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1621959761,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1621959761,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1621959761,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1621959761,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1621959761,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1621959761,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1621959761,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1621959761,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1621959761,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1621959761,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1621959761,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1621959761,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1621959761,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1621959761,"~/index.js"
+-'  1  0  ~/index.js
+|4,39,1,0,1621959761,"~/index.js"
+
+# Historia de las marcas en los archivos (de la más reciente a la más antigua):
+
+> ~/Documentos/curso/ReactPlatzi/reactHooks/react-hooks/node_modules/react-dom/cjs/react-dom.development.js
+	*	1631638836	0
+	"	20883	6
+
+> ~/Documentos/curso/ReactPlatzi/intro-react/src/component/CreateTodoButton.js
+	*	1631049024	0
+	"	12	12
+	.	6	755
+	+	6	0
+	+	6	755
+
+> ~/.ssh/id_rsa.pub
+	*	1622152317	0
+	"	1	28
+	^	1	758
+	.	1	758
+	+	1	758
+
+> ~/.bash
+	*	1621971415	0
+	"	1	0
+
+> ~/index.js
+	*	1621959759	0
+	"	1	0
