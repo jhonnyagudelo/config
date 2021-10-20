@@ -66,6 +66,7 @@ plugins=(
   git
   tmux 
   npm
+  zsh-syntax-highlighting
 )
 
 source $ZSH/oh-my-zsh.sh
@@ -140,3 +141,6 @@ export PATH=$PATH:$ANDROID_HOME/tools
 export PATH=$PATH:$ANDROID_HOME/tools/bin
 export PATH=$PATH:$ANDROID_HOME/platform-tools
 export JAVA_HOME=/usr/bin/java
+source /home/desarrollo-1/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source /home/desarrollo-1/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source /home/desarrollo-1/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh

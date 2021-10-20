@@ -1,3 +1,7 @@
+snippet React "import react" b
+import React from 'react'
+endsnippet
+
 snippet clg "console.log()" b
 console.log(${1:'$2', $3})
 endsnippet
@@ -58,12 +62,14 @@ endsnippet
 
 snippet rfc "React function component" b
 import React from 'react'
-const $1 = ${2:($3)} => (
-  <$4>
-    $5
-  </$4>
-)
-export default $1
+const $1 = ${2:($3)} => {
+return (
+		<$4>
+			$5
+		</$4>
+	)
+}
+export {$1}
 endsnippet
 
 snippet rnfc "React native function component" b
@@ -75,7 +81,7 @@ const $1 = ${2:($3)} => (
     $5
   </$4>
 )
-export default $1
+export {$1}
 endsnippet
 
 snippet rcc "React class component" b
